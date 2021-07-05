@@ -1,11 +1,9 @@
 # Taxi-service
-***
 ![taxi logo](taxi_logo.png)
 Very simple taxi service application. 
 You can adding, deleting and editing information 
 about drivers, cars and cars manufacturers.
 ## Technologies
-***
 * Tomcat
 * MySQL
 * JDBC
@@ -15,7 +13,6 @@ about drivers, cars and cars manufacturers.
 * HTML, CSS
 
 ## Setup
-***
 --> Clone this project
 
 --> Configure Tomcat Server
