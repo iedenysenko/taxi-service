@@ -16,7 +16,7 @@ about drivers, cars and cars manufacturers.
 
 ##Setup
 ***
---> Clone this project.
+--> Clone this project
 
 --> Configure Tomcat Server
 
