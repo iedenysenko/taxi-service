@@ -13,15 +13,15 @@ about drivers, cars and cars manufacturers.
 * HTML, CSS
 
 ## Setup
-**-->** Clone this project
+**1** Clone this project
 
-**-->** Configure Tomcat Server
+**2** Configure Tomcat Server
 
-**-->** Install MySQL RDBMS and MySQL Workbench on your computer
+**3** Install MySQL RDBMS and MySQL Workbench on your computer
 
-**-->** Use script from src/main/resources/init_db.sql to configure MySQL
+**4** Use script from src/main/resources/init_db.sql to configure MySQL
 
-**-->** Insert your own MySQL username and login in dbProperties in the ConnectionUtil class.
+**5** Insert your own MySQL username and login in dbProperties in the ConnectionUtil class.
 - USERNAME: "your username"
 - PASSWORD: "your password"
 - URL: jdbc:mysql://xxxx:yyyy/kkkk?serverTimezone=UTC , where:
@@ -29,4 +29,4 @@ about drivers, cars and cars manufacturers.
     * yyyy - port,
     * kkkk - database name
     
-**-->** Run project
+**6** Run project
